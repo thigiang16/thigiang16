@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ashley! 👋
 
-<!--
-**thigiang16/thigiang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a junior at **Eastern Washington University** majoring in **Computer Science** with minors in **Cyber Security** and **Africana Studies**. 
 
-Here are some ideas to get you started:
+## 🌱 I'm interested in learning:
+- More about **iOS development** and creating **social media apps**.
+- Expanding my knowledge in **cybersecurity**, especially penetration testing and ethical hacking.
+- Improving my skills in **software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Currently working on:
+- A **habit-building app** in **Flutter** for my personal project.
+- Learning **Git** and **GitHub** for better collaboration and version control.
+
+## 🎮 My hobbies:
+- **Watching** movies 
+- Exploring **new technologies** and learning about **software development**.
+- **Reading** (fiction, history, and tech blogs).
+
