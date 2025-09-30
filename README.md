@@ -1,6 +1,6 @@
 # Hi, I'm Ashley! 👋
 
-Welcome to my GitHub profile! I’m a junior at **Eastern Washington University** majoring in **Computer Science** with minors in **Cyber Security** and **Africana Studies**. 
+Welcome to my GitHub profile! I’m a junior at **Eastern Washington University** majoring in **Computer Science** with minors in **Machine Learning** and **Africana Studies**. 
 
 ## 🌱 I'm interested in learning:
 - More about **iOS development** and creating **social media apps**.
